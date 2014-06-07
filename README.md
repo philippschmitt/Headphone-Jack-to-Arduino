@@ -24,7 +24,7 @@ Because the flash needs some seconds to reload after it has been triggered, impu
 ## Parts needed
 - Camera Flash with synchron cable (I'm using an Unomat 20B auto)
 - ATtiny 85 microprocessor, Arduino or similar
-- Power supply, e.g. 3.7V 110mAh battery
+- Power supply, e.g. LIPO 3.7V 110mAh battery
 - Transistor, e.g. BD 137-16
 - Relay, e.g. FRS1B-S
 - audio cable that fits your phone's audio output
