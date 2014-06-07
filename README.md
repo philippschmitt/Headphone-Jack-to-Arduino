@@ -1,21 +1,24 @@
 # Headphone to Arduino
 
 Drive a camera flash from a smartphone headphone jack.
+add more thorough summary
+
+add project url
 
 ![image](setup.jpg)
 
 
-## About
-About this project
-
-
 ## Parts list
-List of needed parts
+add list of needed parts
 
 
 ## Circuit Design
-How to build this circuit
+add instructions
 
 ![image](circuit-breadboard.png)
 
 ![image](circuit.png)
+
+
+Philipp Schmitt
+mail@philippschmitt.com
