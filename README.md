@@ -16,7 +16,7 @@ When the microprocessor is connected, it connects the two wires of a flash synch
 
 The flash needs some seconds to reload after it has been triggered. Impulses arriving in the meantime are added to a flash queue, where they wait until the flash has reloaded. The LED is on as long as there are impulses waiting in the queue.
 
-[add link to CA ATtiny tutorial]
+Setup and programming an ATtiny85 is easy. Here's a nice tutorial: http://www.creativeapplications.net/tutorials/small-programmable-wearable-and-cheap-enjoying-the-attiny85-tutorial/
 
 
 ## Parts needed
