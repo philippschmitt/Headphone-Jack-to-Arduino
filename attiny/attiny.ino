@@ -46,11 +46,11 @@ boolean rec = false;
 boolean pauseFlash = false;
 
 // current analog value from Audio Input
-unsigned int audioInput;
+int audioInput;
 // analog value from audion input from last loop() cycle
-unsigned int lastAudioInput;
+int lastAudioInput = 0;
 // difference between audioInput and lastAudioInput
-unsigned int diff;
+unsigned int diff = 0;
 
 // counter for measuring audio input duration
 unsigned int counter = 0;
@@ -70,14 +70,12 @@ unsigned long startPause;
 unsigned long flashPause;
 
 
-// SETUP
 void setup() {
   // Define LED pin as output pin
-  pinMode(ledPin, OUTPUT);
+  pinMode(triggerPin, OUTPUT);
 }
 
 
-// LOOP
 void loop() {
 
   // read audio input
