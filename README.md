@@ -2,7 +2,7 @@
 
 This setup allows you to trigger a camera flash from your phones' headphone jack with a short sound impulse.
 
-[add project url]
+I used it for this: http://philippschmitt.com/projects/lightpainting
 
 
 
