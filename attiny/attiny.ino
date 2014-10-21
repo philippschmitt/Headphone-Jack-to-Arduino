@@ -84,8 +84,7 @@ void loop() {
   // Turn on LED, if there are flashes waiting in the queue
   if( flashQueue > 0 ) {
     // LED on
-    // increase value 300 for more light
-    analogWrite( ledPin, 300); 
+    analogWrite( ledPin, 255); 
   } else {
     // LED off
     analogWrite( ledPin, 0); 
