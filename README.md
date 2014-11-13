@@ -4,6 +4,8 @@ This setup allows you to trigger a camera flash from your phones' headphone jack
 
 I used it for this: http://philippschmitt.com/projects/lightpainting
 
+If you came here looking for code to fetch pictures for a location from Panoramio and Flickr, this is for you: https://gist.github.com/philippschmitt/5a676537bf7712164395
+
 
 
 ## Setup
